@@ -1,0 +1,40 @@
+C:\Users\student\source\repos\Practic6\bin\Debug\Practic6.exe.config
+C:\Users\student\source\repos\Practic6\bin\Debug\Practic6.exe
+C:\Users\student\source\repos\Practic6\bin\Debug\Practic6.pdb
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.Form1.resources
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.Properties.Resources.resources
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.exe
+C:\Users\student\source\repos\Practic6\obj\Debug\Practic6.pdb
+M:\Studio projects\Practic6\bin\Debug\Practic6.exe.config
+M:\Studio projects\Practic6\bin\Debug\Practic6.exe
+M:\Studio projects\Practic6\bin\Debug\Practic6.pdb
+M:\Studio projects\Practic6\obj\Debug\Practic6.csprojAssemblyReference.cache
+M:\Studio projects\Practic6\obj\Debug\Practic6.Form1.resources
+M:\Studio projects\Practic6\obj\Debug\Practic6.Properties.Resources.resources
+M:\Studio projects\Practic6\obj\Debug\Practic6.csproj.GenerateResource.cache
+M:\Studio projects\Practic6\obj\Debug\Practic6.csproj.CoreCompileInputs.cache
+M:\Studio projects\Practic6\obj\Debug\Practic6.exe
+M:\Studio projects\Practic6\obj\Debug\Practic6.pdb
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\bin\Debug\Practic6.exe.config
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\bin\Debug\Practic6.exe
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\bin\Debug\Practic6.pdb
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.csprojAssemblyReference.cache
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.Form1.resources
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.Properties.Resources.resources
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.csproj.GenerateResource.cache
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.csproj.CoreCompileInputs.cache
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.exe
+C:\Users\dimag\Desktop\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.pdb
+P:\USER\Второй семестр\OC\Практика№6\Practic6\bin\Debug\Practic6.exe.config
+P:\USER\Второй семестр\OC\Практика№6\Practic6\bin\Debug\Practic6.exe
+P:\USER\Второй семестр\OC\Практика№6\Practic6\bin\Debug\Practic6.pdb
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.csprojAssemblyReference.cache
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.Properties.Resources.resources
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.csproj.GenerateResource.cache
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.csproj.CoreCompileInputs.cache
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.exe
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.pdb
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Debug\Practic6.MainForm.resources

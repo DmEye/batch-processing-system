@@ -1,0 +1,10 @@
+P:\USER\Второй семестр\OC\Практика№6\Practic6\bin\Release\Practic6.exe.config
+P:\USER\Второй семестр\OC\Практика№6\Practic6\bin\Release\Practic6.exe
+P:\USER\Второй семестр\OC\Практика№6\Practic6\bin\Release\Practic6.pdb
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.csprojAssemblyReference.cache
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.MainForm.resources
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.Properties.Resources.resources
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.csproj.GenerateResource.cache
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.csproj.CoreCompileInputs.cache
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.exe
+P:\USER\Второй семестр\OC\Практика№6\Practic6\obj\Release\Practic6.pdb
